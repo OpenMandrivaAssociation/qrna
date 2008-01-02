@@ -11,6 +11,7 @@ Group:		Sciences/Biology
 License:	GPL
 URL:		http://selab.janelia.org/software.html#qrna
 Source:		ftp://selab.janelia.org/pub/software/%{name}-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 QRNA uses comparative genome sequence analysis to detect 
