@@ -9,7 +9,7 @@ Release:	%{release}
 Summary:	Prototype ncRNA genefinder
 Group:		Sciences/Biology
 License:	GPL
-URL:		http://selab.janelia.org/software.html#qrna
+URL:		https://selab.janelia.org/software.html#qrna
 Source:		ftp://selab.janelia.org/pub/software/%{name}-%{version}.tar.bz2
 Patch:		fix_getline.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}
