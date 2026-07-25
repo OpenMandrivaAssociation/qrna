@@ -1,7 +1,7 @@
 %define name	qrna
 %define version	2.0.3c
 %define rel	6
-%define release	%mkrel %{rel}
+%define release %{rel}.1
 
 Name:		%{name}
 Version:	%{version}
